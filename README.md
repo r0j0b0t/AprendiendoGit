@@ -1,2 +1,2 @@
-Este es mi repositorio de aprendizaje
-Tendra muchos cambios
+Dentro de VS Code la imagen es como la siguiente:
+(/assets/)
